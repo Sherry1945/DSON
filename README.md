@@ -91,8 +91,9 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 
 
 ## References
-[GCP_CVPR2020]Wang, Qilong, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "What deep CNNs benefit from global covariance pooling: An optimization perspective." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), pp. 10771-10780. 2020.
+[GCP_OPT2023]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023).
 
-[DropCov_NIPS2022]Wang, Qilong, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems 35 (NIPS): 33576-33588. 2022.
+[DropCov_NIPS2022] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems 35 (NIPS): 33576-33588. 2022.
 
-[ISqrt_CVPR2018]Li, Peihua, Jiangtao Xie, Qilong Wang, and Zilin Gao. "Towards faster training of global covariance pooling networks by iterative matrix square root normalization." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), pp. 947-955. 2018.
+[MP_ICCV2022] Mingze Gao,Qilong Wang,Zhenyi Lin, Pengfei Zhu,Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
+[AMS-NET_ICCV2022]Qilong Wang, Qiyao Hu,Zilin Gao,Peihua Li,Qinghua Hu. "AMS-Net: Modeling Adaptive Multi-Granularity Spatio-Temporal Cues for Video Action Recognition." IEEE Transactions on Neural Networks and Learning Systems (2023).
