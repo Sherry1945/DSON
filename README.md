@@ -85,7 +85,7 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 |Works         | Paper | Code|                                                         
 | ------------------ | ----- | ------- | 
 | Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective  |  [Link](https://ieeexplore.ieee.org/document/10269023)|[Link](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)   |
-| DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   19.6  |
+| DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   |
 | ResNet-18+ISqrt(Ours)   | 72.25  |   19.6  | 
 | ResNet-34   |  73.68 |  21.8   |   3.66  |   
 
