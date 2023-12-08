@@ -6,14 +6,6 @@ This paper delves deep into the optimization behaviors of deep Global Covariance
 Analysis of the impact of GCP with matrix power normalization on deep architectures. This involves examining the behaviors of both optimization loss (e.g., smoother loss landscape and flatter local minima) and gradient computation.
 Investigation and improvement of post-normalization key for optimizing GCP networks. This led to the proposal of the DropCov method, a novel technique for efficiently normalizing GCP. The DropCov method was found to be superior or competitive with existing methods in terms of both efficiency and effectiveness.
 Exploration of three new benefits of GCP for deep architectures that have not been previously recognized or fully explored.
-
-![GCP-DropCov](https://github.com/Terror03/GCP-DropCov/assets/45889633/5b80b7a8-0b9f-4ed9-ad44-8c1f35653f15))
-![GCP-DropCov2](https://github.com/Terror03/GCP-DropCov/assets/45889633/f98c4c3c-383e-4987-b862-217bf92aa4b8)
-
-
-
-
-
 [Download](https://drive.google.com/file/d/1zVDDmmQWQ-CDDoxjaolkcjI3MACE-rxx/view?usp=drive_link)
 
 
@@ -85,6 +77,12 @@ For example:
 ```bash
 mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-stdout python train.py  --config_path="./config/resnet50_imagenet2012_config.yaml" --run_distribute=True --device_num=4 --device_target="GPU" --data_path=./imagenet --output_path './output' &> log &
 ```
+
+##Our work
+【1】Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective [Paper](https://ieeexplore.ieee.org/document/10269023)[Code](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)
+【2】
+【3】
+【4】
 ## References
 [GCP_CVPR2020]Wang, Qilong, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "What deep CNNs benefit from global covariance pooling: An optimization perspective." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), pp. 10771-10780. 2020.
 
