@@ -78,11 +78,16 @@ For example:
 mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-stdout python train.py  --config_path="./config/resnet50_imagenet2012_config.yaml" --run_distribute=True --device_num=4 --device_target="GPU" --data_path=./imagenet --output_path './output' &> log &
 ```
 
-##Our work
+
+
+## Training
 【1】Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective [Paper](https://ieeexplore.ieee.org/document/10269023)[Code](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)
 【2】
 【3】
 【4】
+
+
+
 ## References
 [GCP_CVPR2020]Wang, Qilong, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "What deep CNNs benefit from global covariance pooling: An optimization perspective." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), pp. 10771-10780. 2020.
 
