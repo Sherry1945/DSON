@@ -95,5 +95,5 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 
 [DropCov_NIPS2022] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems 35 (NIPS): 33576-33588. 2022.
 
-[MP_ICCV2022] Mingze Gao,Qilong Wang,Zhenyi Lin, Pengfei Zhu,Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
+[MP_ICCV2022] Mingze Gao,Qilong Wang,Zhenyi Lin, Pengfei Zhu,Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.  
 [AMS-NET_ICCV2022]Qilong Wang, Qiyao Hu,Zilin Gao,Peihua Li,Qinghua Hu. "AMS-Net: Modeling Adaptive Multi-Granularity Spatio-Temporal Cues for Video Action Recognition." IEEE Transactions on Neural Networks and Learning Systems (2023).
