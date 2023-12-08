@@ -81,7 +81,7 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 
 
 ## Training
-【1】Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective [Paper](https://ieeexplore.ieee.org/document/10269023)[Code](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)
+【1】Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective [Paper](https://ieeexplore.ieee.org/document/10269023)[Code](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)  
 【2】
 【3】
 【4】
