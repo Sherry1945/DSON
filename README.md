@@ -1,12 +1,6 @@
 # Deep Second Order Network
 
 ## Introduction
-This paper delves deep into the optimization behaviors of deep Global Covariance Pooling (GCP) networks with matrix power normalization. The authors undertake a thorough analysis and understanding of the effect of GCP on deep architectures, primarily from an optimization perspective. The research can be summarized into three successive parts:
-
-Analysis of the impact of GCP with matrix power normalization on deep architectures. This involves examining the behaviors of both optimization loss (e.g., smoother loss landscape and flatter local minima) and gradient computation.
-Investigation and improvement of post-normalization key for optimizing GCP networks. This led to the proposal of the DropCov method, a novel technique for efficiently normalizing GCP. The DropCov method was found to be superior or competitive with existing methods in terms of both efficiency and effectiveness.
-Exploration of three new benefits of GCP for deep architectures that have not been previously recognized or fully explored.
-[Download](https://drive.google.com/file/d/1zVDDmmQWQ-CDDoxjaolkcjI3MACE-rxx/view?usp=drive_link)
 
 
 ## Usage
@@ -84,7 +78,7 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 
 |Works         | Paper | Code|                                                         
 | ------------------ | ----- | ------- | 
-| Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective  |  [Link](https://ieeexplore.ieee.org/document/10269023)|[Link](https://github.com/Terror03/GCP-DropCov/blob/main/README.md)   |
+| Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective  |  [Link](https://ieeexplore.ieee.org/document/10269023)|[Link](https://github.com/Terror03/GCP-OPT)   |
 | DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   |
 |Tuning Pre-trained Model via Moment Probing   |  [Link](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)   |   Coming Soon |
 | AMS-Net: Modeling Adaptive Multi-Granularity Spatio-Temporal Cues for Video Action Recognition  |  [Link](https://ieeexplore.ieee.org/abstract/document/10283898)    |  Coming Soon |   
