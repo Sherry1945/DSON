@@ -10,7 +10,7 @@ We explore the effect of post-normalization on GCP from the model optimization p
 ● [Tuning Pre-trained Model via Moment Probing](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)    
 This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.  
 ●  [AMS-Net: Modeling Adaptive Multi-Granularity Spatio-Temporal Cues for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10283898)   
-AMS-Net proposes two core components, namely competitive progressive temporal modeling (CPTM) block and collaborative spatio-temporal pyramid (CSTP) module. They respectively capture fine-grained temporalcues and fuse coarse-level spatio-temporal features in an adaptive manner.  
+AMS-Net proposes two core components, namely competitive progressive temporal modeling (CPTM) block and collaborative spatio-temporal pyramid (CSTP) module. They respectively capture fine-grained temporalcues and fuse coarse-level spatio-temporal features in an adaptive manner. It admits that AMS-Net can handle subtle variations of visual tempos and fair-sized spatio-temporal dynamics in a unified architecture. 
 
 ## Usage
 
