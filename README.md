@@ -2,12 +2,12 @@
 
 ## Introduction
 There are four codes implementation of deep second-order networks on the mindspore architecture.  
-●[Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective](https://ieeexplore.ieee.org/document/10269023) In this paper, we make the effort towards understanding the effect of GCP on deep learning from an optimization perspective. we point out several merits
+●[Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective](https://ieeexplore.ieee.org/document/10269023)   
+In this paper, we make the effort towards understanding the effect of GCP on deep learning from an optimization perspective. we point out several merits
 of deep GCP that have not been recognized previously or fully explored, including faster convergence, stronger model robustness and better generalization across tasks.   
-● [DropCov: A Simple yet Effective Method for Improving Deep Architectures ](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)
+● [DropCov: A Simple yet Effective Method for Improving Deep Architectures ](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  
 we explore the effect of post-normalization on GCP from the model optimization perspective, which encourages us to propose a simple yet effective normalization, namely DropCov.  
-● [Tuning Pre-trained Model via Moment Probing]
-(https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)  
+● [Tuning Pre-trained Model via Moment Probing](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)  
 ●    
 ## Usage
 
