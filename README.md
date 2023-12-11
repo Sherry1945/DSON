@@ -1,8 +1,11 @@
 # Deep Second Order Network
 
 ## Introduction
-
-
+There are four codes implementation of deep second-order networks on the mindspore architecture.  
+●["Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective."](https://ieeexplore.ieee.org/document/10269023)
+●
+●
+●
 ## Usage
 
 ### Environments
