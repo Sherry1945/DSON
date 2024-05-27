@@ -109,4 +109,5 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 [MP] Mingze Gao, Qilong Wang, Zhenyi Lin, Pengfei Zhu, Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023.  
 
 [AMU-Tuning] Yuwei Tang, Zhenyi Lin, Qilong Wang, Pengfei Zhu, Qinghua Hu. "AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning."  IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR). 2024.
+
 [CCP-GNN]  Pengfei Zhu; Jialu Li; Zhe Dong; Qinghua Hu; Xiao Wang; Qilong Wang. "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks." IEEE Transactions on Neural Networks and Learning Systems(TNNLS). 2024.
