@@ -8,7 +8,8 @@ of deep GCP that have not been recognized previously or fully explored, includin
 
 ![pami](fig/tpami.png)
 ● [DropCov: A Simple yet Effective Method for Improving Deep Architectures ](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  
-We explore the effect of post-normalization on GCP from the model optimization perspective, which encourages us to propose a simple yet effective normalization, namely DropCov.  
+<div align= "justify">We explore the effect of post-normalization on GCP from the model optimization perspective, which encourages us to propose a simple yet effective normalization, namely DropCov.  </div>
+
 ![DropCov](fig/dropcov.png)
 ● [Tuning Pre-trained Model via Moment Probing](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)    
 This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.  
