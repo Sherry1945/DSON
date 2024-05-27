@@ -4,12 +4,14 @@
 There are codes implementation of various deep second-order networks based on the mindspore architecture.  
 ●[Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective](https://ieeexplore.ieee.org/document/10269023)   
 In this paper, we make the effort towards understanding the effect of GCP on deep learning from an optimization perspective. we point out several merits
-of deep GCP that have not been recognized previously or fully explored, including faster convergence, stronger model robustness and better generalization across tasks.   
+of deep GCP that have not been recognized previously or fully explored, including faster convergence, stronger model robustness and better generalization across tasks. 
+
 ● [DropCov: A Simple yet Effective Method for Improving Deep Architectures ](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  
 We explore the effect of post-normalization on GCP from the model optimization perspective, which encourages us to propose a simple yet effective normalization, namely DropCov.  
+![DropCov](fig/dropcov.png)
 ● [Tuning Pre-trained Model via Moment Probing](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)    
 This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.  
-
+![Moment-Probing](fig/mp.png)
 ● [AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning](https://arxiv.org/abs/2404.08958)    
 This paper disassemble three key components involved in computation of logit bias (i.e., logit features, logit predictor, and logit fusion) and empirically analyze the effect on performance of few-shot classification. Based on analysis of key components, this paper proposes a novel AMU-Tuning method to learn effective logit bias for CLIP-based few-shot classification.
 ![AMU-Tuning](fig/amu-net.png)
