@@ -12,13 +12,16 @@ of deep GCP that have not been recognized previously or fully explored, includin
 
 ![DropCov](fig/dropcov.png)
 ● [Tuning Pre-trained Model via Moment Probing](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)    
-This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.  
+<div align= "justify">This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.   </div>
+
 ![Moment-Probing](fig/mp.png)
 ● [AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning](https://arxiv.org/abs/2404.08958)    
-This paper disassemble three key components involved in computation of logit bias (i.e., logit features, logit predictor, and logit fusion) and empirically analyze the effect on performance of few-shot classification. Based on analysis of key components, this paper proposes a novel AMU-Tuning method to learn effective logit bias for CLIP-based few-shot classification.
+<div align= "justify">This paper disassemble three key components involved in computation of logit bias (i.e., logit features, logit predictor, and logit fusion) and empirically analyze the effect on performance of few-shot classification. Based on analysis of key components, this paper proposes a novel AMU-Tuning method to learn effective logit bias for CLIP-based few-shot classification. </div>
+
 ![AMU-Tuning](fig/amu-net.png)
 ● [CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks](https://ieeexplore.ieee.org/document/10509794)    
-This article proposes a novel competitive covariance pooling (CCP) based on observation of graph structures, i.e., graphs generally can be identified by a (small) key part of nodes. To this end, our CCP generates node-level second-order representations to explore rich statistics inherent in node features, which are fed to a competitive-based attention module for effectively discovering key nodes through learning node weights. Subsequently, our CCP aggregates nodelevel second-order representations in conjunction with node weights by summation to produce a covariance representation for each graph, while an iterative matrix normalization is introduced to consider geometry of covariances.
+<div align= "justify">This article proposes a novel competitive covariance pooling (CCP) based on observation of graph structures, i.e., graphs generally can be identified by a (small) key part of nodes. To this end, our CCP generates node-level second-order representations to explore rich statistics inherent in node features, which are fed to a competitive-based attention module for effectively discovering key nodes through learning node weights. Subsequently, our CCP aggregates nodelevel second-order representations in conjunction with node weights by summation to produce a covariance representation for each graph, while an iterative matrix normalization is introduced to consider geometry of covariances. </div>
+
 ![CCP-GNN](fig/CCP-GNN.png)
 
 ## Usage
