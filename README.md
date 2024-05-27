@@ -109,7 +109,7 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 ## References
 <div align= "justify">[GCP_OPT]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI). 2023 . </div>
 
-<div align= "justify">[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems(NeurIPS): 33576-33588. 2022. </div>
+<div align= "justify">[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems(NeurIPS). 2022. </div>
 
 <div align= "justify">[MP] Mingze Gao, Qilong Wang, Zhenyi Lin, Pengfei Zhu, Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023. </div>
 
