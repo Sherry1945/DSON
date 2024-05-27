@@ -17,7 +17,7 @@ This paper disassemble three key components involved in computation of logit bia
 ![AMU-Tuning](fig/amu-net.png)
 ● [CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks](https://ieeexplore.ieee.org/document/10509794)    
 This paper propose a novel Moment Probing (MP) method to further explore the potential of Linear Probing(LP). Distinguished from LP which builds a linear classification head based on the mean of final features (e.g., word tokens for ViT) or classification tokens, our MP performs a linear classifier on feature distribution, which provides the stronger representation ability by exploiting richer statistical information inherent in features.  
-
+![CCP-GNN](fig/CCP-GNN.png)
 
 ## Usage
 
