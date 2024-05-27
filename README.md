@@ -97,14 +97,16 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 | Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective  |  [Link](https://ieeexplore.ieee.org/document/10269023)|[Link](https://github.com/Terror03/GCP-OPT)   |
 | DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   |
 |Tuning Pre-trained Model via Moment Probing   |  [Link](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Tuning_Pre-trained_Model_via_Moment_Probing_ICCV_2023_paper.html)   |  [Link](https://github.com/Sherry1945/MP_Mindspore)  |
-
+| AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning   | [Link](https://arxiv.org/abs/2404.08958)  |   [Link](https://github.com/TJU-sjyj/AMU-Tuning)   |
+|CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks |  [Link](https://ieeexplore.ieee.org/document/10509794)   |  [Link]()  |
 
 
 ## References
-[GCP_OPT]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023).
+[GCP_OPT]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI). 2023 .
 
-[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems 35 (NIPS): 33576-33588. 2022.
+[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems(NeurIPS): 33576-33588. 2022.
 
-[MP_ICCV] Mingze Gao,Qilong Wang,Zhenyi Lin, Pengfei Zhu,Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.  
+[MP] Mingze Gao, Qilong Wang, Zhenyi Lin, Pengfei Zhu, Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023.  
 
-
+[AMU-Tuning] Yuwei Tang, Zhenyi Lin, Qilong Wang, Pengfei Zhu, Qinghua Hu. "AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning."  IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR). 2024.
+[CCP-GNN]  Pengfei Zhu; Jialu Li; Zhe Dong; Qinghua Hu; Xiao Wang; Qilong Wang. "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks." IEEE Transactions on Neural Networks and Learning Systems(TNNLS). 2024.
