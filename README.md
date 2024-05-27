@@ -107,12 +107,20 @@ mpirun --allow-run-as-root -n 4 --output-filename log_output --merge-stderr-to-s
 
 
 ## References
-[GCP_OPT]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI). 2023 .
+<div align= "justify">[GCP_OPT]Qilong Wang , Zhaolin Zhang,Mingze Gao, Jiangtao Xie,Pengfei Zhu, Peihua Li, Wangmeng Zuo, and Qinghua Hu. "Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective." IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI). 2023 . </div>
 
-[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems(NeurIPS): 33576-33588. 2022.
+<div align= "justify">[DropCov] Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, and Qinghua Hu. "DropCov: a simple yet effective method for improving deep architectures." Advances in Neural Information Processing Systems(NeurIPS): 33576-33588. 2022. </div>
 
-[MP] Mingze Gao, Qilong Wang, Zhenyi Lin, Pengfei Zhu, Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023.  
+<div align= "justify">[MP] Mingze Gao, Qilong Wang, Zhenyi Lin, Pengfei Zhu, Qinghua Hu, Jingbo Zhou. "Tuning Pre-trained Model via Moment Probing." Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023. </div>
 
-[AMU-Tuning] Yuwei Tang, Zhenyi Lin, Qilong Wang, Pengfei Zhu, Qinghua Hu. "AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning."  IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR). 2024.
+<div align= "justify">[AMU-Tuning] Yuwei Tang, Zhenyi Lin, Qilong Wang, Pengfei Zhu, Qinghua Hu. "AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning."  IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR). 2024.</div>
 
-[CCP-GNN]  Pengfei Zhu; Jialu Li; Zhe Dong; Qinghua Hu; Xiao Wang; Qilong Wang. "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks." IEEE Transactions on Neural Networks and Learning Systems(TNNLS). 2024.
+<div align= "justify">[CCP-GNN]  Pengfei Zhu; Jialu Li; Zhe Dong; Qinghua Hu; Xiao Wang; Qilong Wang. "CCP-GNN: Competitive Covariance Pooling for Improving Graph Neural Networks." IEEE Transactions on Neural Networks and Learning Systems(TNNLS). 2024. </div>
+
+
+
+ 
+
+
+
+
